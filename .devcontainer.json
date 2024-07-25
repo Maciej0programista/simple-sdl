@@ -1,0 +1,6 @@
+{
+    "name": "simple-sdl",  // Zmień na nazwę swojego projektu
+    "features": {
+      "ghcr.io/devcontainers/features/x11:1": {}
+    }
+  }
